@@ -6,3 +6,4 @@ Para rodar o projeto na sua máquina:
 ***
 node app.js
 ***
+;)
